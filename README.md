@@ -36,7 +36,7 @@ export OPENAI_API_KEY=<deepseek-api-key>
 export OPENAI_BASE_URL=https://api.deepseek.com/v1
 garak --target_type openai --target_name deepseek-chat --probes promptinject
 garak --target_type openai --target_name deepseek-chat --probes dan,encoding,leakreplay,malwaregen
-\
+```
 ---
 
 ## 2. Results
