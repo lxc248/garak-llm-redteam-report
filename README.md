@@ -1,9 +1,8 @@
-# LLM Red Team Security Assessment: DeepSeek-Chat
+﻿# LLM Red Team Security Assessment: DeepSeek-Chat
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/)
 [![Garak](https://img.shields.io/badge/Garak-0.17.0-orange)](https://github.com/NVIDIA/garak)
 [![OWASP LLM Top 10](https://img.shields.io/badge/OWASP-LLM%20Top%2010-red)](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ## Abstract
 
@@ -94,6 +93,3 @@ garak --target_type openai --target_name deepseek-chat --probes dan,encoding,lea
 
 ---
 
-## License
-
-MIT License
