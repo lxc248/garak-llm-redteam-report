@@ -30,7 +30,7 @@ Reconnaissance -> Threat Modeling -> Adversarial Payload Generation -> Execution
 
 ### Execution
 
-\\ash
+```bash
 pip install garak
 export OPENAI_API_KEY=<deepseek-api-key>
 export OPENAI_BASE_URL=https://api.deepseek.com/v1
